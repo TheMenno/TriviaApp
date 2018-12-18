@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TriviaApp</string>
+    <string name="header">Gaming Trivia</string>
+    <string name="gameover">Game over!</string>
 </resources>
